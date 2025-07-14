@@ -1,0 +1,1 @@
+# SnP500-Replication
