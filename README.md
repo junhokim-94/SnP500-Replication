@@ -107,4 +107,4 @@ jupyter lab notebooks/01_analysis.ipynb     # run All ▶︎
 ---
 
 ## 8 . Contact
-Junho Kim · junho.kim@example.com · [LinkedIn](https://linkedin.com/in/…)
+Junho Kim · [LinkedIn](https://linkedin.com/in/junhokim94)
